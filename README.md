@@ -20,6 +20,6 @@ Feel free to explore more in my repositories! 😊
 
 ## 📬 Connect With Me
 - **GitHub**: [mahdiMGF2](https://github.com/mahdiMGF2)
-- **Telegram**: [https://t.me/elon133]
+- **Telegram**: [Telegramid](https://t.me/elon133)
 
 Thank you for visiting my profile! 🌟
