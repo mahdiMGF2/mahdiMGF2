@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mahdi
 
-<!--
-**mahdiMGF2/mahdiMGF2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👨‍💻  
+I am a **Back-End Developer** who is passionate about solving complex problems, building efficient applications, and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Programming Languages**: [Python,php]
+---
+
+## 📂 My Projects
+Here are some of the projects I’ve been working on. My focus is on:
+- [Bot Telegram Vpn Sell](https://github.com/mahdiMGF2/botmirzapanel)
+- [url shorter](https://github.com/mahdiMGF2/url_shorter)
+
+Feel free to explore more in my repositories! 😊
+
+---
+
+## 📬 Connect With Me
+- **GitHub**: [mahdiMGF2](https://github.com/mahdiMGF2)
+- **Telegram**: [https://t.me/elon133]
+
+Thank you for visiting my profile! 🌟
