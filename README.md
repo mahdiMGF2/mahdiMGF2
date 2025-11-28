@@ -2,7 +2,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdiMGF2" alt="mahdiMGF2" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiMGF2&label=Profile%20views&color=0e75b6&style=flat" alt="javad-fallah-official" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiMGF2&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiMGF2" /> </p>
 
 Welcome to my GitHub profile! 👨‍💻  
 I am a **Back-End Developer** who is passionate about solving complex problems, building efficient applications, and exploring new technologies.
