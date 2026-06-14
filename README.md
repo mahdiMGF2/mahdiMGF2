@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Mahdi
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdiMGF2" alt="mahdiMGF2" /></a> </p>
+<img src="https://streak-stats.demolab.com/?user=mahdiMGF2" alt="mahdiMGF2" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiMGF2&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiMGF2" /> </p>
 
 Welcome to my GitHub profile! 👨‍💻  
